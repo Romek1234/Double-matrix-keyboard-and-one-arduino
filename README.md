@@ -2,7 +2,10 @@
 Double matrix keyboard and one arduino transmitting on different MIDI channel
 
 
+One 4x8 matrix keyboard and the other 2x2 matrix keyboard.
+
+I am using Pitera P. Controller.h and Control_surface.h libraries
+
 Thanks Pieter P - tttapa  https://github.com/tttapa
 
 
-One 8x4 matrix keyboard works very well. I expanded with 4 more buttons that would work on another midi channel - and the extended one does not work! Would someone help me?
